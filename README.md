@@ -3,7 +3,7 @@
 Built with .NET 8 Web API
 
 ## How to run: 
-git clone https://github.com/yourusername/OrderPricingSystem.git  
+git clone https://github.com/majaxpan/OrderPricingSystem
 cd OrderPricingSystem  
 dotnet run
 
