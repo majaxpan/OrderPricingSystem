@@ -39,3 +39,5 @@ I introduced `subtotalAfterDiscount` and used it to calculate tax so the final p
 - 10% discount for quantities **50–99**  
 - 15% discount for quantity **100**  
 
+## Note:
+JSON file **products.json** is used to store product data and it is saved in the root folder.
